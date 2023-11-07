@@ -1,2 +1,2 @@
 # landingpage
-A landing page project
+A landing page project for the odin project.

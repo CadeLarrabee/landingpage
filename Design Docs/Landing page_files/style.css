@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+  }
+
+.page{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+}
+.header{
+    background-color: azure;
+    display:flex;
+    justify-content: space-between;
+}
+.content{
+    flex-grow:1;
+}
